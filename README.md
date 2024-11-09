@@ -30,12 +30,14 @@ If you followed the steps correctly, your screen should resemble the example sho
 <p>
 Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk.  <br>
   
-For this tutorial, we will create the  three levels: <br>
-- Level 1 - support tier 1 (this will hangle SLA 3)
-- Level 2 - support tier 2 (this will handle SLA 2)
-- Level 3 - support tier 3 (this will handle SLA 1)
-- 
-Additional settings, including SLAs, managers, and email configurations, can be customized within the Departments tab. System administrators can also monitor ticket activity and assume responsibility when a Level 3 team member is unresponsive or when there is a direct request from a VP for personal handling of a ticket.
+For this tutorial, we will create the  four departments <br>
+- System Administrators
+- Payroll
+- Support
+- Leave of Absence
+- Human Resouces 
+  
+Company ticketing systems are generally organized into departments such as System Administration, Payroll, Support, Leave of Absence, and Human Resources. This structure ensures that tickets are efficiently routed to the appropriate teams, promoting faster resolutions, streamlined SLA management, and accountability by allowing each department to handle requests relevant to their specialized roles and protocols.
 
 </p>
 <br />
