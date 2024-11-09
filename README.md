@@ -28,7 +28,14 @@ If you followed the steps correctly, your screen should resemble the example sho
 <p>
 </p>
 <p>
-Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk. For this tutorial, we will create the "System Administrators" department, where the Supreme Admins will be designated. Additional settings such as SLAs, managers, and email configurations can also be customized within the Departments tab.
+Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk.  <br>
+  
+For this tutorial, we will create the  three levels: <br>
+- Level 1 - support tier 1 (this will hangle SLA 3)
+- Level 2 - support tier 2 (this will handle SLA 2)
+- Level 3 - support tier 3 (this will handle SLA 1)
+- 
+Additional settings, including SLAs, managers, and email configurations, can be customized within the Departments tab. System administrators can also monitor ticket activity and assume responsibility when a Level 3 team member is unresponsive or when there is a direct request from a VP for personal handling of a ticket.
 
 </p>
 <br />
@@ -36,7 +43,11 @@ Navigate to the Agents tab and select the "Departments" button. In this section,
 <img src="https://i.imgur.com/dGK0RVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team. 
+After configuring a new department we will set up new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. 
+  
+For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team. 
+
+  
 </p>
 <br />
 <p>
