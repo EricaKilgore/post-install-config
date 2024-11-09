@@ -35,15 +35,17 @@ For this tutorial, we will create the  four departments <br>
 - Payroll
 - Support
 - Leave of Absence
-- Human Resouces 
+- Human Resources 
   
 Company ticketing systems are generally organized into departments such as System Administration, Payroll, Support, Leave of Absence, and Human Resources. This structure ensures that tickets are efficiently routed to the appropriate teams, promoting faster resolutions, streamlined SLA management, and accountability by allowing each department to handle requests relevant to their specialized roles and protocols.
 
 </p>
-<br />
 <p>
-<img src="https://i.imgur.com/dGK0RVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="718" alt="image" src="https://github.com/user-attachments/assets/e8c0138e-aab0-4b33-97ea-e0345ab88ef2">
+
 </p>
+<br />
+
 <p>
 After configuring a new department we will set up new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. 
   
