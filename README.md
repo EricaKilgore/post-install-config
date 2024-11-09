@@ -4,24 +4,30 @@
 
 <h1>osTicket - Post Configuration Setup</h1>
 </p>
-This tutorial demonstrates the post configuration setup of the osTicket system .<br />
+This tutorial outlines the post-configuration setup of the osTicket system.
+
+<br />
 
 <p>
 
 </p>
 </p>
 <p>
-Okay wonderful! We have successfully configured osTicket from scratch. Now we will do some system administration and work on some post installation setup.
-first we will configure new roles within the help desk. In order to do so go to Admin panel-> Agents-> Roles. We will create a Supreme Admin. 
-Click on "Add new role" then enter the name of the new role. You can also modify any specific roles permissions. In this case since we are creating a Supreme Admin they will be given all permissions. Keep in mind roles are used to determine an agents permissions so not all agents will have unlimited access. If you followed the steps correctly your screen should like something like this. As you can see we have successfully created the "Supreme Admin" role.
+We have successfully configured osTicket from scratch. Now, we will focus on system administration and perform some post-installation setup.
+
+First, we will configure new roles within the help desk. To do this, navigate to Admin Panel > Agents > Roles. Click "Add New Role" and enter the name of the new role. You can also modify specific role permissions. In this case, as we are creating a "Supreme Admin," we will assign all permissions to this role. It is important to note that roles define an agent's permissions, so not all agents will have unrestricted access. If you followed the steps correctly, your screen should resemble the example shown, where the "Supreme Admin" role has been successfully created.
 </p>
-<img src="https://i.imgur.com/XHteqdt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/f2125f54-20ee-4a02-8f02-500240d68b0e">
+
+
 </p>
 <br />
 <p>
 </p>
 <p>
-Select the "Departments" button in the agents tab. Here we will be able to create a new department. Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. In this case we will be creating the "System Administrators" department, this is where the Supreme Admins will be designated. Other specific settings such as SLAs, managers and other email settings can be set up in the departments tab. 
+Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk. For this tutorial, we will create the "System Administrators" department, where the Supreme Admins will be designated. Additional settings such as SLAs, managers, and email configurations can also be customized within the Departments tab.
+
 </p>
 <br />
 <p>
