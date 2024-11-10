@@ -131,12 +131,12 @@ For this tutorial, we will create the  three levels: <br>
 - Sev 3 - Tier 3 Support <br>
 </p>
 
-<p> Creating a Sev-1 plan
+<p> 
 
   <img width="727" alt="image" src="https://github.com/user-attachments/assets/adb796fe-93d7-4d57-a0d1-1cd4320aa98d">
 
 </p>
-
+Creating a Sev-1 plan <br>
 <img width="683" alt="image" src="https://github.com/user-attachments/assets/5803f76a-0619-47b9-9b7a-15e3479b89ab">
 
 </p>
