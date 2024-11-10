@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>style="text-align: center; font-weight: bold; font-size: 16pt;"> osTicket - Post Configuration Setup</h1>
+<h1> style="text-align: center; font-weight: bold; font-size: 16pt;"> osTicket - Post Configuration Setup</h1>
 </p>
 This tutorial outlines the post-configuration setup of the osTicket system.
 
