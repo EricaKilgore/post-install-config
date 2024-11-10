@@ -26,6 +26,8 @@ If you followed the steps correctly, your screen should resemble the example sho
 <p>
 </p>
 
+<hr>
+
 <p>
 Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk.  <br>
   
@@ -58,6 +60,8 @@ For instance, a representative from Human Resources could be granted access to P
 </p>
 <p>
 
+<hr>
+
 With the new team established, the next step is to configure a setting that enables all users to create tickets. Navigate to Admin Panel > Settings > User Settings to apply this configuration.
 
 </p>
@@ -68,8 +72,11 @@ With the new team established, the next step is to configure a setting that enab
 
 <br />
 
+<hr>
+
 <p>
 The next step is to create Agents. Below is a list of agents already created, followed by images detailing the steps to assign agents to specific departments and set their levels of access. <br>
+
 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/00699565-e695-4fec-b0b3-2e4be852c047">
 
@@ -97,6 +104,8 @@ The next step is to create Agents. Below is a list of agents already created, fo
 <img width="490" alt="image" src="https://github.com/user-attachments/assets/98b0955f-4d1f-433f-b1bd-a93381306f63"><br>
 
 </P>
+
+<hr>
 
 <p>
 SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
