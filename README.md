@@ -147,7 +147,7 @@ Creating a Sev-1 plan with the appropriate grace time and the schedule type. Thi
     <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Help Topics</h1>
 
 <p>
-Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
+Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access payroll or possibly tier 1 support. 
 </p>
 <br />
 <img width="729" alt="image" src="https://github.com/user-attachments/assets/d29086f0-217f-4f8e-90b2-ef3c490be284">
