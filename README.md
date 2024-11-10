@@ -75,7 +75,8 @@ With the new team established, the next step is to configure a setting that enab
 <hr>
 
 <p>
-  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Agents</h1>
+  <p align="center">
+  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Agents</h1> </p>
 
 Below is a list of agents already created, followed by images detailing the steps to assign agents to specific departments and set their levels of access. <br>
 
