@@ -75,14 +75,16 @@ With the new team established, the next step is to configure a setting that enab
 <hr>
 
 <p>
-The next step is to create Agents. Below is a list of agents already created, followed by images detailing the steps to assign agents to specific departments and set their levels of access. <br>
+  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Agents</h1>
+
+Below is a list of agents already created, followed by images detailing the steps to assign agents to specific departments and set their levels of access. <br>
 
 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/00699565-e695-4fec-b0b3-2e4be852c047">
 
 </p>
 <b> STEP 1 </b> Admin Panel -> Agents -> Agents - Add New Agent <br>
-
+<br>
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/da18c6e8-39ac-4e88-94c1-48f85b7402b8"> <br>
 
 <b> STEP 2 </b> Fill out user information<br>
@@ -108,6 +110,7 @@ The next step is to create Agents. Below is a list of agents already created, fo
 <hr>
 
 <p>
+    <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating SLA's</h1>
 SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
 </p>
 <br />
