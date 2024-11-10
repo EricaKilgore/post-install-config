@@ -68,6 +68,8 @@ With the new team established, the next step is to configure a setting that enab
 
 </p>
 
+<br />
+
 <p>
 The next step is to create Agents. Below is a list of agents already created, followed by images detailing the steps to assign agents to specific departments and set their levels of access. <br>
 
@@ -75,9 +77,11 @@ The next step is to create Agents. Below is a list of agents already created, fo
 
 </p>
 <b> STEP 1 </b> Admin Panel -> Agents -> Agents - Add New Agent <br>
+
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/da18c6e8-39ac-4e88-94c1-48f85b7402b8"> <br>
 
 <b> STEP 2 </b> Fill out user information<br>
+
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/0a254ac5-3fae-40d4-9844-a0ccf3d5580e"><br>
 
 
@@ -87,13 +91,14 @@ The next step is to create Agents. Below is a list of agents already created, fo
 
 
 <b> STEP 4 </b> Assigning Permissions<br>
+
 <img width="338" alt="image" src="https://github.com/user-attachments/assets/9a4d21a3-b0b9-4f51-9ca8-d0acc8c03a53"><br>
 
 <b> STEP 5 </b> Team assignments can be configured here and updated from the Teams tab when adding multiple agents simultaneously.<br>
 
 <img width="490" alt="image" src="https://github.com/user-attachments/assets/98b0955f-4d1f-433f-b1bd-a93381306f63"><br>
 
-
+</P>
 
 
 <p>
