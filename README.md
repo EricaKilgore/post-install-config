@@ -13,6 +13,9 @@ This tutorial outlines the post-configuration setup of the osTicket system.
 <p>
 We have successfully configured osTicket from scratch. Now, we will focus on system administration and perform some post-installation setup.
 
+<hr>
+<h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Roles </h1> </p>
+
 First, we will configure new roles within the help desk: To do this, navigate to Admin Panel > Agents > Roles. Click "Add New Role" and enter the name of the new role. You can also modify specific role permissions. In this case, as we are creating a "Supreme Admin," we will assign all permissions to this role. It is important to note that roles define an agent's permissions, so not all agents will have unrestricted access. 
 
 If you followed the steps correctly, your screen should resemble the example shown, where the "Supreme Admin" role has been successfully created.
@@ -29,6 +32,8 @@ If you followed the steps correctly, your screen should resemble the example sho
 <hr>
 
 <p>
+  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Departments </h1> </p> <br>
+  
 Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk.  <br>
   
 For this tutorial, we will create the  four departments <br>
@@ -61,7 +66,8 @@ For instance, a representative from Human Resources could be granted access to P
 <p>
 
 <hr>
-
+  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Configuring Ticket Submission Access for All Users </h1> </p> br>
+  
 With the new team established, the next step is to configure a setting that enables all users to create tickets. Navigate to Admin Panel > Settings > User Settings to apply this configuration.
 
 </p>
@@ -74,7 +80,7 @@ With the new team established, the next step is to configure a setting that enab
 
 <hr>
 
-<p align="center">
+<p>
   <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Agents</h1> </p>
 
 Below is a list of agents already created, followed by images detailing the steps to assign agents to specific departments and set their levels of access. <br>
