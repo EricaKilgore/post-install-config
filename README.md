@@ -27,6 +27,7 @@ If you followed the steps correctly, your screen should resemble the example sho
 <br />
 <p>
 </p>
+
 <p>
 Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk.  <br>
   
@@ -41,29 +42,60 @@ Company ticketing systems are generally organized into departments such as Syste
 
 </p>
 <p>
-  <img width="718" alt="image" src="https://github.com/user-attachments/assets/e8c0138e-aab0-4b33-97ea-e0345ab88ef2">
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/020fa493-7d26-4c14-a528-ac20bd1cf125">
 
 </p>
 <br />
 
 <p>
-After configuring a new department we will set up new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. 
+Once a new department is configured, the next step is to establish a specialized team. Teams enable cross-departmental collaboration by assembling agents from various departments, allowing for the creation of high-performing groups with top technicians from specific areas.
+
+For instance, a representative from Human Resources could be granted access to Payroll and Leave of Absence functions, empowering them to work on and resolve relevant tickets. This structure enhances operational flexibility and ensures that high-priority tickets are managed by the most qualified personnel. 
+
   
-For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team. 
-
-  
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/cYzWBD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/1af8d5e3-703c-4255-8d14-f495335a4c61">
 </p>
 <p>
-Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
+
+With the new team established, the next step is to configure a setting that enables all users to create tickets. Navigate to Admin Panel > Settings > User Settings to apply this configuration.
 
 </p>
 <br />
-<img src="https://i.imgur.com/H1q2Fdh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/cd7f2a6c-f54e-4bb8-ae65-afdbd174e465">
+
 </p>
+
+<p>
+The next step is to create Agents. Below is a list of agents already created, followed by images detailing the steps to assign agents to specific departments and set their levels of access.
+
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/00699565-e695-4fec-b0b3-2e4be852c047">
+
+</p>
+<b> STEP 1 </b> ADMIN PANEL -> AGNENTS -> ANGENTS -> ADD NEW AGENT
+<img width="704" alt="image" src="https://github.com/user-attachments/assets/da18c6e8-39ac-4e88-94c1-48f85b7402b8">
+
+<b> STEP 2 </b> Fill out user information
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/0a254ac5-3fae-40d4-9844-a0ccf3d5580e">
+
+
+<b> STEP 3 </b> Assign the agent’s designated department and access level; additional access privileges can be configured as necessary.
+
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/7852e90d-d36d-4d19-9977-a07a971c9881">
+
+
+<b> STEP 4 </b> Assigning Permissions
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/9a4d21a3-b0b9-4f51-9ca8-d0acc8c03a53">
+
+<b> STEP 5 </b> Team assignments can be configured here and updated from the Teams tab when adding multiple agents simultaneously.
+
+<img width="490" alt="image" src="https://github.com/user-attachments/assets/98b0955f-4d1f-433f-b1bd-a93381306f63">
+
+
+
+
 <p>
 It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab. 
 </p>
