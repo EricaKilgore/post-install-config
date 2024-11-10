@@ -111,24 +111,27 @@ Below is a list of agents already created, followed by images detailing the step
 
 <img width="490" alt="image" src="https://github.com/user-attachments/assets/98b0955f-4d1f-433f-b1bd-a93381306f63"><br>
 
+- Additional settings, including SLAs, managers, and email configurations, can be customized within the Departments tab. System administrators can also monitor ticket activity and assume responsibility when a Level 3 team member is unresponsive or when there is a direct request from a VP for personal handling of a ticket.
+
+
 </P>
 
 <hr>
 
 <p>
     <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating SLA's</h1>
-SLA Plans define the time frame within which the help desk is expected to resolve a specific ticket. These plans are created by navigating to Admin Panel > Manage > SLA Plans. Each SLA is associated with a schedule that includes a designated grace period. For instance, the SEV-A SLA is set to operate 24/7 with a one-hour grace period.
+SLA Plans define the time frame within which the help desk is expected to resolve a specific ticket. These plans are created by navigating to Admin Panel > Manage > SLA Plans. Each SLA is associated with a schedule that includes a designated grace period. For instance, the SEV-1 SLA is set to operate 24/7 with a one-hour grace period.
 
 </p>
 <br />
 <p>
 For this tutorial, we will create the  three levels: <br>
-- Sev 1 - Tier 1 Support (This will handle SLA 3)
-- Sev 2 - Tier 2 Support (This will handle SLA 2)
-- Sev 3 - Tier 3 Support (This will handle SLA 1)
-  
-Additional settings, including SLAs, managers, and email configurations, can be customized within the Departments tab. System administrators can also monitor ticket activity and assume responsibility when a Level 3 team member is unresponsive or when there is a direct request from a VP for personal handling of a ticket.
+- Sev 1 - Tier 1 Support <br>
+- Sev 2 - Tier 2 Support <br>
+- Sev 3 - Tier 3 Support <br>
+</p>
 
+<p> Creating a Sev-1 plan
 
   <img width="727" alt="image" src="https://github.com/user-attachments/assets/adb796fe-93d7-4d57-a0d1-1cd4320aa98d">
 
@@ -138,6 +141,10 @@ Additional settings, including SLAs, managers, and email configurations, can be 
 
 </p>
 
+<hr>
+
+<p>
+    <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Help Topics</h1>
 
 <p>
 Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
