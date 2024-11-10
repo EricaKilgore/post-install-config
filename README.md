@@ -66,7 +66,7 @@ For instance, a representative from Human Resources could be granted access to P
 <p>
 
 <hr>
-  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Configuring Ticket Submission Access for All Users </h1> </p> br>
+  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Configuring Ticket Submission Access for All Users </h1> </p> 
   
 With the new team established, the next step is to configure a setting that enables all users to create tickets. Navigate to Admin Panel > Settings > User Settings to apply this configuration.
 
