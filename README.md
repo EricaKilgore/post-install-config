@@ -32,7 +32,7 @@ If you followed the steps correctly, your screen should resemble the example sho
 <hr>
 
 <p>
-  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Departments </h1> </p> <br>
+  <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating Departments and Teams </h1> </p> <br>
   
 Navigate to the Agents tab and select the "Departments" button. In this section, you can create new departments, with each agent being assigned to a specific department based on their role within the helpdesk.  <br>
   
@@ -117,15 +117,33 @@ Below is a list of agents already created, followed by images detailing the step
 
 <p>
     <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Creating SLA's</h1>
-SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
+SLA Plans define the time frame within which the help desk is expected to resolve a specific ticket. These plans are created by navigating to Admin Panel > Manage > SLA Plans. Each SLA is associated with a schedule that includes a designated grace period. For instance, the SEV-A SLA is set to operate 24/7 with a one-hour grace period.
+
 </p>
 <br />
-<img src="https://i.imgur.com/LpjCaLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+For this tutorial, we will create the  three levels: <br>
+- Sev 1 - Tier 1 Support (This will handle SLA 3)
+- Sev 2 - Tier 2 Support (This will handle SLA 2)
+- Sev 3 - Tier 3 Support (This will handle SLA 1)
+  
+Additional settings, including SLAs, managers, and email configurations, can be customized within the Departments tab. System administrators can also monitor ticket activity and assume responsibility when a Level 3 team member is unresponsive or when there is a direct request from a VP for personal handling of a ticket.
+
+
+  <img width="727" alt="image" src="https://github.com/user-attachments/assets/adb796fe-93d7-4d57-a0d1-1cd4320aa98d">
+
 </p>
+
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/5803f76a-0619-47b9-9b7a-15e3479b89ab">
+
+</p>
+
+
 <p>
 Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
 </p>
 <br />
-<img src="https://i.imgur.com/kB7rts2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/d29086f0-217f-4f8e-90b2-ef3c490be284">
+
 </p>
 <p>
